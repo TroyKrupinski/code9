@@ -6,7 +6,7 @@ class Ajax extends CI_Controller {
         // make sure caller is an ajax request
         if ($this->input->is_ajax_request()){
         
-
+            
             $fname = strip_tags(trim($this->input->post('fname')));
             $lname = strip_tags(trim($this->input->post('lname')));
             $ename = strip_tags(trim($this->input->post('ename')));

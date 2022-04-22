@@ -259,12 +259,6 @@ height: 55,
 width: 55
 });
 }
-else{
-$("#help").animate({
-height: 40,
-width: 40
-});
-}
 });
 
 });

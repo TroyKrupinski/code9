@@ -6,7 +6,8 @@ using MVC to create a web app whilst implementing bootstrap, jquery and ajax
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="assets/css/bootstrap3.3.7.css" rel="stylesheet">
+
+<link href="assets/css/bootstrap3.3.7.css" rel="stylesheet"> 
 </head>
 <body>
 
